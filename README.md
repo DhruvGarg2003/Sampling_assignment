@@ -1,0 +1,2 @@
+
+The classifiers used are RandomForestClassifier, LogisticRegression, GaussianNB, DecisionTreeClassifier, and KNeighborsClassifier. Various sampling techniques, such as Simple Random Sampling, Cluster Sampling, Stratified Sampling, Bootstrap Sampling, and Systematic Sampling, were utilized to evaluate the models and identify the optimal one based on accuracy. Among these classifiers, the RandomForestClassifier yielded the highest accuracy.
